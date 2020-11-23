@@ -1,4 +1,4 @@
-const sinon = require( 'sinon' )
+const sinon = require( 'sinon' );
 
 describe('reducer', function() {
   describe('batteries', function() {
